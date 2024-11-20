@@ -1,7 +1,7 @@
-# [Flat Earth Poster](http://www.imswebra.com/projects/flatearth/)
+# [Flat Earth Poster](https://swebra.com/projects/flat-earth/)
 ![](Flat%20Earth%20Poster.png)
 
-This repository serves as a download for the source files of the project showcased [on imswebra.com](http://www.imswebra.com/projects/flatearth/). Visit this page for more information.
+This repository serves as a download for the source files of the project showcased [on swebra.com](https://swebra.com/projects/flat-earth/). Visit this page for more information.
 
 ## Missing Files
 - None
